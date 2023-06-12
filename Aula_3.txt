@@ -238,3 +238,8 @@
   237  git status
   238  git commit -m 'Adicionado participantes.txt'
   239  history > Aula_3.txt
+  git status -s
+  git add .
+  git commit -am 'novo historial crie 2023'
+ 
+   
